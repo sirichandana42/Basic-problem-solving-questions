@@ -1,33 +1,33 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic Math
 
-Find the factorial of a number.
-Check if a number is prime.
-Find the greatest common divisor (GCD) of two numbers.
+Find the factorial of a number. (SOLUTION PROVIDED)
+Check if a number is prime. (SOLUTION PROVIDED)
+Find the greatest common divisor (GCD) of two numbers. 
 Find the least common multiple (LCM) of two numbers.
-Generate the first N Fibonacci numbers.
+Generate the first N Fibonacci numbers.  (SOLUTION PROVIDED)
 Check if a number is a perfect square.
 Find the square root of a number without using sqrt() function.
-Check if a number is an Armstrong number.
-Find the sum of digits of a number.
-Reverse the digits of a number.
-Check if a number is a palindrome.
+Check if a number is an Armstrong number.  (SOLUTION PROVIDED)
+Find the sum of digits of a number.  (SOLUTION PROVIDED)
+Reverse the digits of a number. (SOLUTION PROVIDED)
+Check if a number is a palindrome. (SOLUTION PROVIDED)
 Find the power of a number using recursion.
 Find the number of trailing zeros in the factorial of a number.
 Convert a decimal number to binary.
 Convert a binary number to decimal.
 Find the prime factors of a number.
 Check if a number is a power of two.
-Find the nth prime number.
+Find the nth prime number.  (SOLUTION PROVIDED)
 Find the sum of the first N natural numbers.
 Find the sum of the first N even numbers.
 Find the sum of the first N odd numbers.
-Generate the first N prime numbers.
+Generate the first N prime numbers.  (SOLUTION PROVIDED)
 Find the least common multiple (LCM) of an array of numbers.
 Find the greatest common divisor (GCD) of an array of numbers.
 Implement the Sieve of Eratosthenes to find all prime numbers up to N.
 Calculate the power of a number iteratively.
-Find the number of digits in an integer.
+Find the number of digits in an integer. (SOLUTION PROVIDED)
 Check if a number is a strong number.
 Find the sum of the digits of a number until the sum is a single digit.
 Find the maximum product of three integers in an array.
@@ -36,7 +36,7 @@ Find the maximum product of three integers in an array.
   
 Find the largest element in an array.
 Find the smallest element in an array.
-Find the sum of all elements in an array.
+Find the sum of all elements in an array. 
 Reverse an array.
 Find duplicates in an array.
 Merge two sorted arrays.
@@ -63,24 +63,24 @@ Find the maximum difference between two elements in an array.
 Find the element that appears only once in an array where every other element appears twice.
 Find the maximum length of subarray with sum 0.
 Find the two repeating elements in an array.
-Implement the binary search algorithm.
+Implement the binary search algorithm. (SOLUTION PROVIDED)
 Find the peak element in an array.
 Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
 Find the minimum element in a rotated sorted array.
 Find pairs in an array whose sum equals a given number.
 Merge intervals in an array.
 Implement the insertion sort algorithm.
-Implement the selection sort algorithm.
-Implement the bubble sort algorithm.
+Implement the selection sort algorithm.  (SOLUTION PROVIDED)
+Implement the bubble sort algorithm. (SOLUTION PROVIDED)
 Implement the quicksort algorithm.
 Implement the merge sort algorithm.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Strings
 
-Reverse a string.
-Check if a string is a palindrome.
-Count the number of vowels and consonants in a string.
+Reverse a string. (SOLUTION PROVIDED)
+Check if a string is a palindrome. (SOLUTION PROVIDED)
+Count the number of vowels and consonants in a string. (SOLUTION PROVIDED)
 Find the first non-repeating character in a string.
 Check if two strings are anagrams.
 Convert a string to an integer (atoi).
