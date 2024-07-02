@@ -218,3 +218,53 @@ int main()
     cout<<a<<" "<<b;
     return 0;
 }
+
+//reverse a string
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    
+    string str;
+    cin>>str;
+    int n = str.length();
+
+    for (int i = 0; i < n / 2; ++i) {
+        char temp = str[i];
+        str[i] = str[n - i - 1];
+        str[n - i - 1] = temp;
+    }
+
+    cout << "Reversed string: " << str << endl;
+    return 0;
+}
+
+//palindrome string
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() 
+{ 
+    string str;
+    cin>>str;
+    string str2=str;
+    int n = str.length();
+    for (int i = 0; i < n / 2; i++) 
+    {
+        char temp = str[i];
+        str[i] = str[n - i - 1];
+        str[n - i - 1] = temp;
+    }
+    if(str==str2)
+    {
+        cout<<"palindrome";
+    }
+    else
+        cout<<"not  a palindrome";
+    
+    return 0;
+}
+
+//
