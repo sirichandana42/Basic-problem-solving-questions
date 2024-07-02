@@ -1,0 +1,112 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Basic Math
+
+Find the factorial of a number.
+Check if a number is prime.
+Find the greatest common divisor (GCD) of two numbers.
+Find the least common multiple (LCM) of two numbers.
+Generate the first N Fibonacci numbers.
+Check if a number is a perfect square.
+Find the square root of a number without using sqrt() function.
+Check if a number is an Armstrong number.
+Find the sum of digits of a number.
+Reverse the digits of a number.
+Check if a number is a palindrome.
+Find the power of a number using recursion.
+Find the number of trailing zeros in the factorial of a number.
+Convert a decimal number to binary.
+Convert a binary number to decimal.
+Find the prime factors of a number.
+Check if a number is a power of two.
+Find the nth prime number.
+Find the sum of the first N natural numbers.
+Find the sum of the first N even numbers.
+Find the sum of the first N odd numbers.
+Generate the first N prime numbers.
+Find the least common multiple (LCM) of an array of numbers.
+Find the greatest common divisor (GCD) of an array of numbers.
+Implement the Sieve of Eratosthenes to find all prime numbers up to N.
+Calculate the power of a number iteratively.
+Find the number of digits in an integer.
+Check if a number is a strong number.
+Find the sum of the digits of a number until the sum is a single digit.
+Find the maximum product of three integers in an array.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Arrays
+  
+Find the largest element in an array.
+Find the smallest element in an array.
+Find the sum of all elements in an array.
+Reverse an array.
+Find duplicates in an array.
+Merge two sorted arrays.
+Remove duplicates from an array.
+Find the intersection of two arrays.
+Find the union of two arrays.
+Find the missing number in an array of integers from 1 to N.
+Find the second largest element in an array.
+Count the occurrences of a specific value in an array.
+Move all zeros to the end of an array.
+Find the maximum product of two integers in an array.
+Rotate an array by k positions.
+Find the majority element in an array.
+Find the maximum sum subarray (Kadane’s algorithm).
+Check if an array is sorted.
+Find the equilibrium index of an array.
+Find the common elements in three sorted arrays.
+Find the kth largest element in an array.
+Find the kth smallest element in an array.
+Partition an array around a given value.
+Rearrange positive and negative numbers in an array.
+Find the longest consecutive sequence in an array.
+Find the maximum difference between two elements in an array.
+Find the element that appears only once in an array where every other element appears twice.
+Find the maximum length of subarray with sum 0.
+Find the two repeating elements in an array.
+Implement the binary search algorithm.
+Find the peak element in an array.
+Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
+Find the minimum element in a rotated sorted array.
+Find pairs in an array whose sum equals a given number.
+Merge intervals in an array.
+Implement the insertion sort algorithm.
+Implement the selection sort algorithm.
+Implement the bubble sort algorithm.
+Implement the quicksort algorithm.
+Implement the merge sort algorithm.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Strings
+
+Reverse a string.
+Check if a string is a palindrome.
+Count the number of vowels and consonants in a string.
+Find the first non-repeating character in a string.
+Check if two strings are anagrams.
+Convert a string to an integer (atoi).
+Find the longest substring without repeating characters.
+Check if a string contains only digits.
+Reverse words in a string.
+Remove a given character from a string.
+Find the length of the longest palindromic substring.
+Check if a string is a valid shuffle of two other strings.
+Find all permutations of a given string.
+Count the occurrences of a given character in a string.
+Find the longest common prefix among an array of strings.
+Check if a string contains all unique characters.
+Rotate a string by k positions.
+Implement a basic string compression algorithm.
+Convert a string to lowercase without using standard functions.
+Replace all spaces in a string with %20.
+Find the longest common subsequence (LCS) of two strings.
+Find the longest common substring of two strings.
+Find the edit distance between two strings.
+Check if one string is a rotation of another string.
+Convert a Roman numeral to an integer.
+Implement the strstr() function.
+Find the lexicographic rank of a string.
+Implement a function to perform basic string compression.
+Convert a string to title case.
+Check if a string is a valid palindrome after removing all non-alphanumeric characters.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
