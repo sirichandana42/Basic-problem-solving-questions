@@ -1,4 +1,4 @@
-/*
+
 //hollow rectangle with number
 #include<iostream>
 using namespace std;
@@ -326,4 +326,3 @@ int main()
     cin>>r;
     
 }
-*/
