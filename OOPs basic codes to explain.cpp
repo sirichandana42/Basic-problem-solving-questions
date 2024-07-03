@@ -59,3 +59,35 @@ cout <<  myBox.getDepth()<< endl;
 
   return 0;
 }
+//abstraction implementation for explaining
+#include<iostream>
+using namespace std;
+class shape
+{
+    public:
+    virtual void draw()=0;
+
+};
+class circle:public shape{
+    void draw() override
+    {
+        cout<<"drawing a circle";
+    }
+};
+class square:public shape{
+    void draw() override
+    {
+        cout<<"drawing a square";
+    }
+};
+int main()
+{
+    circle obj1;
+    square obj2;
+    shape*  shape1= &obj1;
+    shape* shape2= &obj2;
+    shape1->draw();
+    cout<<"\n";
+    shape2->draw();
+}
+
