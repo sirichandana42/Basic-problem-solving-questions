@@ -204,6 +204,9 @@ int main()
     }
 }
 
+
+
+
 //swapping w/o third variable
 
 #include<iostream>
@@ -218,6 +221,8 @@ int main()
     cout<<a<<" "<<b;
     return 0;
 }
+
+
 
 //reverse a string
 #include <iostream>
@@ -240,7 +245,24 @@ int main() {
     return 0;
 }
 
-//palindrome string
+//reversing a string method 2
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    string str,str2;
+    cin>>str;
+    for(int i=str.length()-1;i>=0;i--)
+    {
+        str2.append(1,str[i]);
+    }
+    cout<<str2;
+    return 0;
+}
+
+//palindorminc string
+
 
 #include <iostream>
 #include <string>
@@ -262,9 +284,10 @@ int main()
         cout<<"palindrome";
     }
     else
-        cout<<"not  a palindrome";
+        cout<<"not a palindrome";
     
     return 0;
 }
 
-//
+
+
