@@ -7,8 +7,10 @@ Find the greatest common divisor (GCD) of two numbers. (SOLUTION PROVIDED IN JAV
 Find the least common multiple (LCM) of two numbers. (SOLUTION PROVIDED IN JAVA)
 Generate the first N Fibonacci numbers.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Check if a number is a perfect square. (SOLUTION PROVIDED IN JAVA)
+
 Find the square root of a number without using sqrt() function.
-Check if a number is an Armstrong number.  (SOLUTION PROVIDED in CPP) 
+
+Check if a number is an Armstrong number.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Find the sum of digits of a number.  (SOLUTION PROVIDED in CPP) 
 Reverse the digits of a number. (SOLUTION PROVIDED in CPP) 
 Check if a number is a palindrome. (SOLUTION PROVIDED in CPP) 
