@@ -11,10 +11,10 @@ Check if a number is a perfect square. (SOLUTION PROVIDED IN JAVA)
 Find the square root of a number without using sqrt() function.
 
 Check if a number is an Armstrong number.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
-Find the sum of digits of a number.  (SOLUTION PROVIDED in CPP) 
-Reverse the digits of a number. (SOLUTION PROVIDED in CPP) 
-Check if a number is a palindrome. (SOLUTION PROVIDED in CPP) 
-Find the power of a number using recursion.
+Find the sum of digits of a number.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
+Reverse the digits of a number. (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
+Check if a number is a palindrome. (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
+Find the power of a number using recursion. 
 Find the number of trailing zeros in the factorial of a number.
 Convert a decimal number to binary.
 Convert a binary number to decimal.
