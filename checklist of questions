@@ -35,17 +35,17 @@ Find the maximum product of three integers in an array.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Arrays
   
-Find the largest element in an array.
-Find the smallest element in an array.
-Find the sum of all elements in an array. 
-Reverse an array.
-Find duplicates in an array.
-Merge two sorted arrays.
-Remove duplicates from an array.
-Find the intersection of two arrays.
-Find the union of two arrays.
+Find the largest element in an array. (SOLUTION PROVIDED IN JAVA)
+Find the smallest element in an array. (SOLUTION PROVIDED IN JAVA)
+Find the sum of all elements in an array. (SOLUTION PROVIDED IN JAVA)
+Reverse an array. (SOLUTION PROVIDED IN JAVA)
+Remove duplicates from an array. (SOLUTION PROVIDED IN JAVA)
+Find duplicates in an array. (SOLUTION PROVIDED IN JAVA)
+Merge two sorted arrays. (SOLUTION PROVIDED IN JAVA)
+Find the intersection of two arrays. ~~ find duplicates (SOLUTION PROVIDED IN JAVA)
+Find the union of two arrays. ~~merge two arrays (SOLUTION PROVIDED IN JAVA)
 Find the missing number in an array of integers from 1 to N.
-Find the second largest element in an array.
+Find the second largest element in an array. ~~ largest element just change index to n-2 (SOLUTION PROVIDED IN JAVA)
 Count the occurrences of a specific value in an array.
 Move all zeros to the end of an array.
 Find the maximum product of two integers in an array.
