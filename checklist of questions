@@ -7,29 +7,28 @@ Find the greatest common divisor (GCD) of two numbers. (SOLUTION PROVIDED IN JAV
 Find the least common multiple (LCM) of two numbers. (SOLUTION PROVIDED IN JAVA)
 Generate the first N Fibonacci numbers.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Check if a number is a perfect square. (SOLUTION PROVIDED IN JAVA)
-
-Find the square root of a number without using sqrt() function.
-
 Check if a number is an Armstrong number.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Find the sum of digits of a number.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Reverse the digits of a number. (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Check if a number is a palindrome. (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
-Find the power of a number using recursion. 
-Find the number of trailing zeros in the factorial of a number.
+Find the power of a number using recursion. (SOLUTION PROVIDED IN JAVA)
+Find the nth prime number.  (SOLUTION PROVIDED in CPP)
+Generate the first N prime numbers.  (SOLUTION PROVIDED in CPP) 
+Find the number of digits in an integer. (SOLUTION PROVIDED in CPP) 
+
+Find the square root of a number without using sqrt() function.
+Find the number of trailing zeros in the factorial of a number. 
 Convert a decimal number to binary.
 Convert a binary number to decimal.
 Find the prime factors of a number.
 Check if a number is a power of two.
-Find the nth prime number.  (SOLUTION PROVIDED in CPP) 
 Find the sum of the first N natural numbers.
 Find the sum of the first N even numbers.
 Find the sum of the first N odd numbers.
-Generate the first N prime numbers.  (SOLUTION PROVIDED in CPP) 
 Find the least common multiple (LCM) of an array of numbers.
 Find the greatest common divisor (GCD) of an array of numbers.
 Implement the Sieve of Eratosthenes to find all prime numbers up to N.
 Calculate the power of a number iteratively.
-Find the number of digits in an integer. (SOLUTION PROVIDED in CPP) 
 Check if a number is a strong number.
 Find the sum of the digits of a number until the sum is a single digit.
 Find the maximum product of three integers in an array.
