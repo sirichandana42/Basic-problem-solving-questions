@@ -12,14 +12,17 @@ Find the sum of digits of a number.  (SOLUTION PROVIDED in CPP) (SOLUTION PROVID
 Reverse the digits of a number. (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Check if a number is a palindrome. (SOLUTION PROVIDED in CPP) (SOLUTION PROVIDED IN JAVA)
 Find the power of a number using recursion. (SOLUTION PROVIDED IN JAVA)
+Find the square root of a number without using sqrt() function. (SOLUTION PROVIDED IN JAVA)
+Find the number of trailing zeros in the factorial of a number.  (SOLUTION PROVIDED IN JAVA)
+Convert a decimal number to binary. (SOLUTION PROVIDED IN JAVA)
+Convert a binary number to decimal. (SOLUTION PROVIDED IN JAVA)
+
 Find the nth prime number.  (SOLUTION PROVIDED in CPP)
 Generate the first N prime numbers.  (SOLUTION PROVIDED in CPP) 
 Find the number of digits in an integer. (SOLUTION PROVIDED in CPP) 
 
-Find the square root of a number without using sqrt() function.
-Find the number of trailing zeros in the factorial of a number. 
-Convert a decimal number to binary.
-Convert a binary number to decimal.
+
+
 Find the prime factors of a number.
 Check if a number is a power of two.
 Find the sum of the first N natural numbers.
