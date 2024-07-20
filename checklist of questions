@@ -18,15 +18,16 @@ Convert a decimal number to binary. (SOLUTION PROVIDED IN JAVA)
 Convert a binary number to decimal. (SOLUTION PROVIDED IN JAVA)
 Find the prime factors of a number. (SOLUTION PROVIDED IN JAVA)
 Check if a number is a power of two. (SOLUTION PROVIDED IN JAVA)
+Find the sum of the first N natural numbers. (use math formula n(n+1)/2 or for loop)
+Find the sum of the first N even numbers.(use math formula n(n+1) or for loop with if condition)
+Find the sum of the first N odd numbers.(use math formula n^2 or for loop with if condition)
 Find the nth prime number.  (SOLUTION PROVIDED in CPP)
 Generate the first N prime numbers.  (SOLUTION PROVIDED in CPP) 
 Find the number of digits in an integer. (SOLUTION PROVIDED in CPP) 
 
 
 
-Find the sum of the first N natural numbers.
-Find the sum of the first N even numbers.
-Find the sum of the first N odd numbers.
+
 Find the least common multiple (LCM) of an array of numbers.
 Find the greatest common divisor (GCD) of an array of numbers.
 Implement the Sieve of Eratosthenes to find all prime numbers up to N.
