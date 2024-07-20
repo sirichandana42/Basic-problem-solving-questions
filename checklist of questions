@@ -16,11 +16,12 @@ Find the square root of a number without using sqrt() function. (SOLUTION PROVID
 Find the number of trailing zeros in the factorial of a number.  (SOLUTION PROVIDED IN JAVA)
 Convert a decimal number to binary. (SOLUTION PROVIDED IN JAVA)
 Convert a binary number to decimal. (SOLUTION PROVIDED IN JAVA)
+Find the prime factors of a number. (SOLUTION PROVIDED IN JAVA)
 Find the nth prime number.  (SOLUTION PROVIDED in CPP)
 Generate the first N prime numbers.  (SOLUTION PROVIDED in CPP) 
 Find the number of digits in an integer. (SOLUTION PROVIDED in CPP) 
 
-Find the prime factors of a number.
+
 Check if a number is a power of two.
 Find the sum of the first N natural numbers.
 Find the sum of the first N even numbers.
