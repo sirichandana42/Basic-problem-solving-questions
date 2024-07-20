@@ -29,7 +29,6 @@ Find the number of digits in an integer. (SOLUTION PROVIDED in CPP)
 
 Find the least common multiple (LCM) of an array of numbers.
 Find the greatest common divisor (GCD) of an array of numbers.
-
 Calculate the power of a number iteratively.
 Check if a number is a strong number.
 Find the sum of the digits of a number until the sum is a single digit.
